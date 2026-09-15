@@ -1,6 +1,6 @@
 # paper-resolution
 
-The Resolution plugin for Paper, the notebook desk: the store's lane key as a plugin, so a Page's resolution lane is a plugin's and not the desk's.
+The Resolution plugin for Paper, the notebook desk: the store's lane key as a plugin, the Someday, Soon, Now and Done states, the stamp on an Idea's card and the filter, all the plugin's: the desk's Ideas have no status of their own.
 
 Under construction: nothing to install yet. When it ships, a tagged
 release carries three files, `plugin.toml`, `plugin.wasm` and
